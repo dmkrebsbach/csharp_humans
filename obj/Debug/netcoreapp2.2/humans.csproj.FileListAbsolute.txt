@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/humans/bin/Debug/netcoreapp2.2/humans.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/humans/bin/Debug/netcoreapp2.2/humans.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/humans/bin/Debug/netcoreapp2.2/humans.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/humans/bin/Debug/netcoreapp2.2/humans.dll
+/home/dmkrebsbach/CodingDojo/CSharp/humans/bin/Debug/netcoreapp2.2/humans.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/humans/obj/Debug/netcoreapp2.2/humans.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/humans/obj/Debug/netcoreapp2.2/humans.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/humans/obj/Debug/netcoreapp2.2/humans.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/humans/obj/Debug/netcoreapp2.2/humans.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/humans/obj/Debug/netcoreapp2.2/humans.dll
+/home/dmkrebsbach/CodingDojo/CSharp/humans/obj/Debug/netcoreapp2.2/humans.pdb
